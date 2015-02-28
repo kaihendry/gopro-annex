@@ -1,0 +1,1 @@
+ff54dcee-5fa4-4900-a075-f027bb1ffc95 bucket=cloud2-ff54dcee-5fa4-4900-a075-f027bb1ffc95 datacenter=ap-southeast-1 encryption=none host=s3.amazonaws.com name=cloud2 port=80 storageclass=STANDARD type=S3 timestamp=1425139530.173489s
